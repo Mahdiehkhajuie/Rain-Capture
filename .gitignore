@@ -1,0 +1,51 @@
+# پوشه‌هایی که Unity به صورت موقت می‌سازه و نباید وارد گیت بشن
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# پوشه‌های مربوط به حافظه کش
+MemoryCaptures/
+
+# فایل‌های تنظیمات شخصی که فقط مربوط به کامپیوتر تو هستن
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# فایل‌های سیستمی
+.DS_Store
+*.apk
+*.keystore
+*.db
+*.log
+
+# Visual Studio / JetBrains
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# تنظیمات شخصی Unity
+*.psd.meta
+*.asmdef.meta
+
+# پوشه‌های Export شده یا پکیج‌های خارجی
+Assets/Plugins/Editor/JetBrains* 
+
+# فایل‌های محیطی و شخصی ویندوز
+Thumbs.db
+desktop.ini
+*.bak
+*.old
+*.tmp
