@@ -49,3 +49,6 @@ desktop.ini
 *.bak
 *.old
 *.tmp
+UserSettings/
+.vsconfig
+.vs/
